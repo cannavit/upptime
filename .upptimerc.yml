@@ -21,7 +21,8 @@ sites:
     url: https://pacinottibelmesseri-be.edutelling.it/api/v1/api-docs/#/
   - name: Edutelling WEB pacinottibelmesseri [Production] 
     url: https://pacinottibelmesseri.edutelling.it/login
-    
+  - name: tacticTrade
+    url: https://django-backend-steging.herokuapp.com/
     
     
 assignees:
