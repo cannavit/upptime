@@ -7,14 +7,31 @@ sites:
     url: http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html
   - name: Anoki prenotazioni-web [production]   
     url: http://prenotazioni-web.cloud.anoki.it/
-
+  - name: Edutelling Web Product [production]
+    url: https://edutelling.it/
+  - name: Edutelling API itkif [Production]
+    url: https://edutelling-api-itkif.cloud.anoki.it/api/v1/api-docs/#/
+  - name: Edutelling WEB itkif [Production]
+    url: https://itkif.edutelling.it/login
+  - name: Edutelling API jac [Production]
+    url: https://edutelling-api-jac.cloud.anoki.it/api/v1/api-docs/#/
+  - name: Edutelling WEB jac [Production]
+    url: https://jac.edutelling.it/login
+  - name: Edutelling API pacinottibelmesseri [Production]
+    url: https://pacinottibelmesseri-be.edutelling.it/api/v1/api-docs/#/
+  - name: Edutelling WEB pacinottibelmesseri [Production] 
+    url: https://pacinottibelmesseri.edutelling.it/login
+    
+    
+    
 assignees:
   - cannavit
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+#   cname: demo.upptime.js.org
+  cname: cannavit.github.io/upptime
   # baseUrl: /your-repo-name
   baseUrl: upptime
 #   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
