@@ -11,12 +11,17 @@ sites:
   # Edutelling
   - name: Edutelling Web Product [production]
     url: https://edutelling.it/
-  - name: Edutelling API itkif [Production]
-    url: https://edutelling-api-itkif.cloud.anoki.it/api/v1/api-docs
   - name: Edutelling WEB itkif [Production]
     url: https://itkif.edutelling.it/login
   - name: Edutelling API jac [Production]
-    url: https://edutelling-api-jac.cloud.anoki.it/api/v1/api-docs
+    url: https://edutelling-api-jac.cloud.anoki.it/api/v1/auth/authentication
+    method: POST
+    body: '{ "email": "formazione@edutelling.it", "password": "Passw0rd", "stayLogged": false }'
+    headers:
+      - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 404
+    
   - name: Edutelling WEB jac [Production]
     url: https://jac.edutelling.it/login
   - name: Edutelling API pacinottibelmesseri [Production]
@@ -26,8 +31,6 @@ sites:
   # TactiTrade
   - name: tacticTrade
     url: https://django-backend-steging.herokuapp.com/
-  - name: POT API [staging]
-    url: https://pot-uat.paxitalia.com:8443/api/swagger-ui.html#/auth-controller
 #   - name: Fantaking backend [STAGING]
 #     url: http://dev3-fantaking.dunkest.com/telescope/requests
   # POT PROJECT
@@ -37,6 +40,8 @@ sites:
     url: https://pot-uat.paxitalia.com:8443/api/public/auth/signin
     method: POST
     body: '{ "password": "test", "usernameOrEmail": "test@test.com" }'
+    headers:
+      - "Content-Type: application/json"
     expectedStatusCodes:
       - 401
     
