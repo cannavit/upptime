@@ -1,45 +1,5 @@
 [
   {
-    "name": "Anoki Rancher Production Cluster",
-    "url": "https://cloud.anoki.it:8443/dashboard/auth/login",
-    "icon": "https://favicons.githubusercontent.com/cloud.anoki.it",
-    "slug": "anoki-rancher-production-cluster",
-    "status": "down",
-    "uptime": "0.26%",
-    "uptimeDay": "0.26%",
-    "uptimeWeek": "0.26%",
-    "uptimeMonth": "0.26%",
-    "uptimeYear": "0.26%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-03-30": 6
-    }
-  },
-  {
-    "name": "Anoki Rancher Developer Cluster",
-    "url": "https://openshift.techgap.it:8443/login",
-    "icon": "https://favicons.githubusercontent.com/openshift.techgap.it",
-    "slug": "anoki-rancher-developer-cluster",
-    "status": "down",
-    "uptime": "0.40%",
-    "uptimeDay": "0.40%",
-    "uptimeWeek": "0.40%",
-    "uptimeMonth": "0.40%",
-    "uptimeYear": "0.40%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-03-30": 6
-    }
-  },
-  {
     "name": "Anoki prenotazioni-api [production]",
     "url": "http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html",
     "icon": "https://favicons.githubusercontent.com/prenotazioni-api.cloud.anoki.it",
@@ -50,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 604,
-    "timeWeek": 604,
-    "timeMonth": 604,
-    "timeYear": 604,
+    "time": 675,
+    "timeDay": 675,
+    "timeWeek": 675,
+    "timeMonth": 675,
+    "timeYear": 675,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 692,
-    "timeWeek": 692,
-    "timeMonth": 692,
-    "timeYear": 692,
+    "time": 695,
+    "timeDay": 695,
+    "timeWeek": 695,
+    "timeMonth": 695,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   }
 ]
