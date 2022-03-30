@@ -3,20 +3,15 @@ owner: cannavit # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Anoki/Production Cluster
-    url: https://cloud.anoki.it:8443
+  - name: Anoki Rancher Production Cluster
+    url: https://cloud.anoki.it:8443/dashboard/auth/login
+  - name: Anoki Rancher Developer Cluster
+    url: https://openshift.techgap.it:8443/login
   - name: Anoki prenotazioni-api [production]
     url: http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html
   - name: Anoki prenotazioni-web [production]   
     url: http://prenotazioni-web.cloud.anoki.it/
-    
-    
+ 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
