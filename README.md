@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
+# [�🟢 Live Status](https://cannavit.github.io/upptime/): <!--live status--> 
 
 This repository contains the open-source uptime monitor and status page for [CannIT](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
