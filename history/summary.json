@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.anoki.it",
     "slug": "anoki-rancher-production-cluster",
     "status": "down",
-    "uptime": "0.32%",
-    "uptimeDay": "0.32%",
-    "uptimeWeek": "0.32%",
-    "uptimeMonth": "0.32%",
-    "uptimeYear": "0.32%",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-30": 4
+      "2022-03-30": 6
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/openshift.techgap.it",
     "slug": "anoki-rancher-developer-cluster",
     "status": "down",
-    "uptime": "1.01%",
-    "uptimeDay": "1.01%",
-    "uptimeWeek": "1.01%",
-    "uptimeMonth": "1.01%",
-    "uptimeYear": "1.01%",
+    "uptime": "0.40%",
+    "uptimeDay": "0.40%",
+    "uptimeWeek": "0.40%",
+    "uptimeMonth": "0.40%",
+    "uptimeYear": "0.40%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-30": 4
+      "2022-03-30": 6
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 562,
-    "timeWeek": 562,
-    "timeMonth": 562,
-    "timeYear": 562,
+    "time": 604,
+    "timeDay": 604,
+    "timeWeek": 604,
+    "timeMonth": 604,
+    "timeYear": 604,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 704,
-    "timeWeek": 704,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "time": 692,
+    "timeDay": 692,
+    "timeWeek": 692,
+    "timeMonth": 692,
+    "timeYear": 692,
     "dailyMinutesDown": {}
   }
 ]
