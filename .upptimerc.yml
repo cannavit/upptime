@@ -10,11 +10,11 @@ sites:
   - name: Edutelling Web Product [production]
     url: https://edutelling.it/
   - name: Edutelling API itkif [Production]
-    url: https://edutelling-api-itkif.cloud.anoki.it/api/v1/api-docs/#/
+    url: https://edutelling-api-itkif.cloud.anoki.it/api/v1/api-docs
   - name: Edutelling WEB itkif [Production]
     url: https://itkif.edutelling.it/login
   - name: Edutelling API jac [Production]
-    url: https://edutelling-api-jac.cloud.anoki.it/api/v1/api-docs/#/
+    url: https://edutelling-api-jac.cloud.anoki.it/api/v1/api-docs
   - name: Edutelling WEB jac [Production]
     url: https://jac.edutelling.it/login
   - name: Edutelling API pacinottibelmesseri [Production]
