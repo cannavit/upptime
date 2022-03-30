@@ -32,10 +32,13 @@ sites:
 #     url: http://dev3-fantaking.dunkest.com/telescope/requests
   # POT PROJECT
   - name: POT WEB [Staging]
-    url: https://pot-uat.paxitalia.com:5443/login
+    url: https://pot-uat.paxitalia.com:5443         
   - name: POT API [Staging]
-    url: https://pot-uat.paxitalia.com:8443/api/swagger-ui.html
-    
+    url: https://pot-uat.paxitalia.com:8443/api/public/auth/signin
+    method: POST
+    body: '{ "password": "test", "usernameOrEmail": "test@test.com" }'
+    expectedStatusCodes:
+      - 401
     
 assignees:
   - cannavit
