@@ -11,7 +11,14 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-
+  - name: Anoki/Production Cluster
+    url: https://cloud.anoki.it:8443
+  - name: Anoki prenotazioni-api [production]
+    url: http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html
+  - name: Anoki prenotazioni-web [production]   
+    url: http://prenotazioni-web.cloud.anoki.it/
+    
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
