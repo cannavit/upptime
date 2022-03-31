@@ -12,11 +12,15 @@ sites:
   # Edutelling
   - name: Edutelling Web Product [production]
     url: https://edutelling.it/
+    logoUrl: https://edutelling.it/media/logo.svg
+    
   - name: Edutelling WEB itkif [Production]
     url: https://itkif.edutelling.it/login
+    logoUrl: https://edutelling.it/media/logo.svg
     
   - name: Edutelling WEB jac [Production]
     url: https://jac.edutelling.it/login
+    logoUrl: https://edutelling.it/media/logo.svg
     
   - name: Edutelling API pacinottibelmesseri [Production]
     url: https://pacinottibelmesseri-be.edutelling.it/api/v1/auth/authentication
@@ -29,6 +33,7 @@ sites:
     
   - name: Edutelling WEB pacinottibelmesseri [Production] 
     url: https://pacinottibelmesseri.edutelling.it/login
+    logoUrl: https://edutelling.it/media/logo.svg
     
   # Fantaking Staging  (DISABLED)
   # - name: Fantaking backend [STAGING]
