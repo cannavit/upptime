@@ -40,7 +40,7 @@ sites:
   
   # POT PROJECT
   - name: POT WEB [Staging]
-    url: https://pot-uat.paxitalia.com:5443         
+    url: https://pot-uat.paxitalia.com:5443
   - name: POT API [Staging]
     url: https://pot-uat.paxitalia.com:8443/api/public/auth/signin
     method: POST
@@ -51,7 +51,7 @@ sites:
       - 401
       
   - name: POT WEB [Production]
-    url: https://pot.paxitalia.com/login
+    url: https://pot.paxitalia.com/
   - name: POT API [Production]
     url: https://pot.paxitalia.com:8443/api/public/auth/signin
     method: POST
