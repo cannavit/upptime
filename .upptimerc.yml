@@ -8,6 +8,7 @@ sites:
     url: http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html
   - name: Anoki prenotazioni-web [production]   
     url: http://prenotazioni.cloud.anoki.it/
+    
   # Edutelling
   - name: Edutelling Web Product [production]
     url: https://edutelling.it/
@@ -26,13 +27,8 @@ sites:
     expectedStatusCodes:
       - 404
     
-    
   - name: Edutelling WEB pacinottibelmesseri [Production] 
     url: https://pacinottibelmesseri.edutelling.it/login
-   
-  # TactiTrade 
-  - name: tacticTrade
-    url: https://django-backend-steging.herokuapp.com/
     
   # Fantaking Staging  (DISABLED)
   # - name: Fantaking backend [STAGING]
@@ -49,6 +45,7 @@ sites:
       - "Content-Type: application/json"
     expectedStatusCodes:
       - 401
+      - 403
       
   - name: POT WEB [Production]
     url: https://pot.paxitalia.com/
@@ -60,7 +57,8 @@ sites:
       - "Content-Type: application/json"
     expectedStatusCodes:
       - 401    
-    
+      - 403
+      
 assignees:
   - cannavit
 
