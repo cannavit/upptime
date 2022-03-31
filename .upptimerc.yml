@@ -5,9 +5,9 @@ repo: upptime # The name of this repository
 sites:
   # Prenotazioni
   - name: Anoki prenotazioni-api [production]
-    url: http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html
+    url: https://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html
   - name: Anoki prenotazioni-web [production]   
-    url: http://prenotazioni.cloud.anoki.it/
+    url: https://prenota.cloud.anoki.it/
     
   # Edutelling
   - name: Edutelling Web Product [production]
@@ -43,7 +43,7 @@ sites:
   - name: POT WEB [Staging]
     url: https://pot-uat.paxitalia.com:5443
   - name: POT API [Staging]
-    url: https://pot-uat.paxitalia.com:8443/api/public/auth/signin
+    url: http://pot-uat.paxitalia.com:8443/api/public/auth/signin
     method: POST
     body: '{ "password": "test", "usernameOrEmail": "test@test.com" }'
     headers:
@@ -51,6 +51,7 @@ sites:
     expectedStatusCodes:
       - 401
       - 403
+      - 400
       
   - name: POT WEB [Production]
     url: https://pot.paxitalia.com/
@@ -63,6 +64,7 @@ sites:
     expectedStatusCodes:
       - 401    
       - 403
+      - 400
       
 assignees:
   - cannavit
