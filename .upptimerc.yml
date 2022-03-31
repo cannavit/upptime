@@ -56,7 +56,7 @@ sites:
   - name: POT WEB [Production]
     url: https://pot.paxitalia.com/
   - name: POT API [Production]
-    url: https://pot.paxitalia.com:8443/api/public/auth/signin
+    url: http://pot.paxitalia.com:8443/api/public/auth/signin
     method: POST
     body: '{ "password": "test", "usernameOrEmail": "test@test.com" }'
     headers:
