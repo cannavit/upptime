@@ -7,7 +7,7 @@ sites:
   - name: Anoki prenotazioni-api [production]
     url: http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html
   - name: Anoki prenotazioni-web [production]   
-    url: http://prenotazioni-web.cloud.anoki.it/
+    url: http://prenotazioni.cloud.anoki.it/
   # Edutelling
   - name: Edutelling Web Product [production]
     url: https://edutelling.it/
