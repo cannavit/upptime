@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 981,
-    "timeDay": 1355,
-    "timeWeek": 1246,
-    "timeMonth": 1035,
-    "timeYear": 981,
+    "time": 976,
+    "timeDay": 690,
+    "timeWeek": 1224,
+    "timeMonth": 1030,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2022-04-07": 36
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 699,
-    "timeDay": 1015,
-    "timeWeek": 887,
+    "timeDay": 694,
+    "timeWeek": 895,
     "timeMonth": 715,
     "timeYear": 699,
     "dailyMinutesDown": {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 929,
-    "timeDay": 1135,
-    "timeWeek": 1060,
-    "timeMonth": 915,
-    "timeYear": 929,
+    "time": 924,
+    "timeDay": 634,
+    "timeWeek": 1036,
+    "timeMonth": 909,
+    "timeYear": 924,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 855,
-    "timeDay": 938,
-    "timeWeek": 950,
-    "timeMonth": 837,
-    "timeYear": 855,
+    "time": 850,
+    "timeDay": 578,
+    "timeWeek": 931,
+    "timeMonth": 823,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2022-03-30": 22
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 294,
-    "timeDay": 352,
-    "timeWeek": 342,
-    "timeMonth": 283,
-    "timeYear": 294,
+    "time": 292,
+    "timeDay": 214,
+    "timeWeek": 333,
+    "timeMonth": 281,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2022-03-30": 50
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 647,
-    "timeDay": 753,
-    "timeWeek": 763,
-    "timeMonth": 620,
-    "timeYear": 647,
+    "time": 644,
+    "timeDay": 473,
+    "timeWeek": 743,
+    "timeMonth": 616,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2022-03-31": 61
     }
@@ -123,16 +123,16 @@
     "icon": "https://favicons.githubusercontent.com/pot.paxitalia.com",
     "slug": "pot-api-production",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
-    "time": 228,
-    "timeDay": 282,
-    "timeWeek": 277,
-    "timeMonth": 221,
-    "timeYear": 228,
+    "uptimeYear": "99.46%",
+    "time": 227,
+    "timeDay": 165,
+    "timeWeek": 268,
+    "timeMonth": 220,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2022-03-31": 372
     }
