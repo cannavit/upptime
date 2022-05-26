@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 973,
-    "timeDay": 1331,
-    "timeWeek": 939,
-    "timeMonth": 1009,
-    "timeYear": 973,
+    "time": 972,
+    "timeDay": 861,
+    "timeWeek": 943,
+    "timeMonth": 1014,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2022-04-07": 36
     }
@@ -25,15 +25,15 @@
     "icon": "https://favicons.githubusercontent.com/prenota.cloud.anoki.it",
     "slug": "anoki-prenotazioni-web-production",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.71%",
+    "uptimeYear": "99.72%",
     "time": 703,
-    "timeDay": 856,
-    "timeWeek": 743,
-    "timeMonth": 734,
+    "timeDay": 698,
+    "timeWeek": 707,
+    "timeMonth": 738,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2022-03-31": 229
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 914,
-    "timeDay": 1053,
-    "timeWeek": 821,
-    "timeMonth": 873,
-    "timeYear": 914,
+    "time": 915,
+    "timeDay": 1000,
+    "timeWeek": 852,
+    "timeMonth": 884,
+    "timeYear": 915,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 842,
-    "timeDay": 960,
-    "timeWeek": 770,
-    "timeMonth": 822,
-    "timeYear": 842,
+    "time": 844,
+    "timeDay": 980,
+    "timeWeek": 800,
+    "timeMonth": 828,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2022-03-30": 22
     }
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 290,
-    "timeDay": 359,
-    "timeWeek": 273,
-    "timeMonth": 283,
+    "timeDay": 268,
+    "timeWeek": 271,
+    "timeMonth": 284,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2022-03-30": 50
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 639,
-    "timeDay": 813,
-    "timeWeek": 604,
-    "timeMonth": 629,
+    "timeDay": 619,
+    "timeWeek": 607,
+    "timeMonth": 632,
     "timeYear": 639,
     "dailyMinutesDown": {
       "2022-03-31": 61
@@ -123,15 +123,15 @@
     "icon": "https://favicons.githubusercontent.com/pot.paxitalia.com",
     "slug": "pot-api-production",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 225,
-    "timeDay": 289,
-    "timeWeek": 214,
-    "timeMonth": 222,
+    "timeDay": 234,
+    "timeWeek": 218,
+    "timeMonth": 224,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2022-03-31": 372
