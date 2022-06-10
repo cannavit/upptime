@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/prenotazioni-api.cloud.anoki.it",
     "slug": "anoki-prenotazioni-api-production",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 973,
-    "timeDay": 1716,
-    "timeWeek": 1161,
-    "timeMonth": 1031,
-    "timeYear": 973,
+    "uptimeYear": "99.97%",
+    "time": 977,
+    "timeDay": 1351,
+    "timeWeek": 1200,
+    "timeMonth": 1029,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2022-04-07": 36
     }
@@ -25,15 +25,15 @@
     "icon": "https://favicons.githubusercontent.com/prenota.cloud.anoki.it",
     "slug": "anoki-prenotazioni-web-production",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 712,
-    "timeDay": 1185,
-    "timeWeek": 822,
-    "timeMonth": 778,
+    "timeDay": 731,
+    "timeWeek": 776,
+    "timeMonth": 780,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2022-03-31": 229
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 1065,
-    "timeWeek": 926,
-    "timeMonth": 884,
-    "timeYear": 898,
+    "time": 902,
+    "timeDay": 1206,
+    "timeWeek": 932,
+    "timeMonth": 882,
+    "timeYear": 902,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 832,
-    "timeDay": 1199,
-    "timeWeek": 856,
-    "timeMonth": 819,
-    "timeYear": 832,
+    "time": 833,
+    "timeDay": 913,
+    "timeWeek": 828,
+    "timeMonth": 817,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2022-03-30": 22
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 283,
-    "timeDay": 366,
-    "timeWeek": 280,
+    "time": 284,
+    "timeDay": 358,
+    "timeWeek": 285,
     "timeMonth": 282,
-    "timeYear": 283,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2022-03-30": 50
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 629,
-    "timeDay": 836,
-    "timeWeek": 638,
-    "timeMonth": 632,
-    "timeYear": 629,
+    "time": 631,
+    "timeDay": 814,
+    "timeWeek": 656,
+    "timeMonth": 633,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2022-03-31": 61
     }
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 222,
-    "timeDay": 287,
-    "timeWeek": 227,
+    "time": 223,
+    "timeDay": 299,
+    "timeWeek": 231,
     "timeMonth": 227,
-    "timeYear": 222,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2022-03-31": 372
     }
