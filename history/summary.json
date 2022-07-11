@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/prenota.cloud.anoki.it",
     "slug": "anoki-prenotazioni-web-production",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 720,
     "timeDay": 1075,
     "timeWeek": 856,
@@ -83,9 +83,9 @@
     "url": "http://pot-uat.paxitalia.com:8443/api/public/auth/signin",
     "icon": "https://favicons.githubusercontent.com/pot-uat.paxitalia.com",
     "slug": "pot-api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.89%",
@@ -95,6 +95,7 @@
     "timeMonth": 280,
     "timeYear": 283,
     "dailyMinutesDown": {
+      "2022-07-11": 0,
       "2022-07-01": 106,
       "2022-03-30": 50
     }
