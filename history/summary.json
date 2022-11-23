@@ -62,9 +62,9 @@
     "url": "https://pot-uat.paxitalia.com:5443",
     "icon": "https://icons.duckduckgo.com/ip3/pot-uat.paxitalia.com.ico",
     "slug": "pot-web-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -74,6 +74,7 @@
     "timeMonth": 679,
     "timeYear": 815,
     "dailyMinutesDown": {
+      "2022-11-23": 0,
       "2022-07-01": 106,
       "2022-03-30": 22
     }
@@ -84,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pot-uat.paxitalia.com.ico",
     "slug": "pot-api-staging",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.43%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.49%",
     "time": 341,
     "timeDay": 426,
     "timeWeek": 378,
