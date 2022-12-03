@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1028,
-    "timeDay": 1312,
-    "timeWeek": 1085,
-    "timeMonth": 978,
-    "timeYear": 1028,
+    "time": 1027,
+    "timeDay": 1006,
+    "timeWeek": 1039,
+    "timeMonth": 991,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2022-04-07": 36
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 839,
-    "timeDay": 817,
-    "timeWeek": 1021,
-    "timeMonth": 956,
-    "timeYear": 839,
+    "time": 841,
+    "timeDay": 1361,
+    "timeWeek": 1033,
+    "timeMonth": 973,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2022-03-31": 229
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 935,
-    "timeDay": 1385,
-    "timeWeek": 929,
-    "timeMonth": 920,
+    "timeDay": 946,
+    "timeWeek": 950,
+    "timeMonth": 927,
     "timeYear": 935,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 816,
-    "timeDay": 905,
-    "timeWeek": 730,
-    "timeMonth": 719,
+    "timeDay": 840,
+    "timeWeek": 739,
+    "timeMonth": 728,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2022-07-01": 106,
@@ -90,9 +90,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.54%",
     "time": 344,
-    "timeDay": 354,
-    "timeWeek": 388,
-    "timeMonth": 399,
+    "timeDay": 479,
+    "timeWeek": 397,
+    "timeMonth": 404,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2022-11-04": 93,
@@ -119,11 +119,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 624,
-    "timeDay": 783,
-    "timeWeek": 632,
-    "timeMonth": 598,
-    "timeYear": 624,
+    "time": 625,
+    "timeDay": 749,
+    "timeWeek": 649,
+    "timeMonth": 607,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2022-03-31": 61
     }
@@ -134,16 +134,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pot.paxitalia.com.ico",
     "slug": "pot-api-production",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 286,
-    "timeDay": 527,
-    "timeWeek": 388,
-    "timeMonth": 354,
-    "timeYear": 286,
+    "uptimeYear": "99.90%",
+    "time": 287,
+    "timeDay": 415,
+    "timeWeek": 396,
+    "timeMonth": 358,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2022-03-31": 372
     }
