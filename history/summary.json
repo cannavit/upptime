@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1029,
-    "timeDay": 1402,
-    "timeWeek": 1135,
-    "timeMonth": 1079,
-    "timeYear": 1029,
+    "time": 1028,
+    "timeDay": 907,
+    "timeWeek": 1140,
+    "timeMonth": 1065,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2022-04-07": 36
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 858,
-    "timeDay": 909,
-    "timeWeek": 1100,
-    "timeMonth": 1112,
-    "timeYear": 858,
+    "time": 859,
+    "timeDay": 1063,
+    "timeWeek": 1151,
+    "timeMonth": 1109,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2022-03-31": 229
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 934,
-    "timeDay": 1295,
-    "timeWeek": 962,
+    "timeDay": 950,
+    "timeWeek": 1000,
     "timeMonth": 942,
     "timeYear": 934,
     "dailyMinutesDown": {}
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 811,
-    "timeDay": 915,
-    "timeWeek": 749,
-    "timeMonth": 764,
+    "timeDay": 699,
+    "timeWeek": 768,
+    "timeMonth": 763,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2022-07-01": 106,
@@ -84,15 +84,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pot-uat.paxitalia.com.ico",
     "slug": "pot-api-staging",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.64%",
     "time": 349,
-    "timeDay": 548,
-    "timeWeek": 423,
-    "timeMonth": 409,
+    "timeDay": 415,
+    "timeWeek": 432,
+    "timeMonth": 408,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2022-11-04": 93,
@@ -120,9 +120,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 623,
-    "timeDay": 808,
-    "timeWeek": 638,
-    "timeMonth": 622,
+    "timeDay": 633,
+    "timeWeek": 657,
+    "timeMonth": 621,
     "timeYear": 623,
     "dailyMinutesDown": {
       "2022-03-31": 61
@@ -139,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 290,
-    "timeDay": 451,
-    "timeWeek": 375,
+    "time": 291,
+    "timeDay": 382,
+    "timeWeek": 387,
     "timeMonth": 366,
-    "timeYear": 290,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2022-03-31": 372
     }
