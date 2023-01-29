@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1051,
-    "timeDay": 765,
-    "timeWeek": 1651,
-    "timeMonth": 1214,
+    "timeDay": 1090,
+    "timeWeek": 1682,
+    "timeMonth": 1215,
     "timeYear": 1051,
     "dailyMinutesDown": {
       "2022-04-07": 36
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 888,
-    "timeDay": 810,
-    "timeWeek": 899,
-    "timeMonth": 1112,
+    "timeDay": 729,
+    "timeWeek": 908,
+    "timeMonth": 1109,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2022-03-31": 229
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 928,
-    "timeDay": 775,
-    "timeWeek": 798,
-    "timeMonth": 870,
+    "timeDay": 876,
+    "timeWeek": 808,
+    "timeMonth": 872,
     "timeYear": 928,
     "dailyMinutesDown": {}
   },
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 800,
-    "timeDay": 554,
-    "timeWeek": 684,
+    "timeDay": 564,
+    "timeWeek": 664,
     "timeMonth": 708,
     "timeYear": 800,
     "dailyMinutesDown": {
@@ -84,14 +84,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/pot-uat.paxitalia.com.ico",
     "slug": "pot-api-staging",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.82%",
     "time": 357,
-    "timeDay": 318,
-    "timeWeek": 415,
+    "timeDay": 343,
+    "timeWeek": 401,
     "timeMonth": 418,
     "timeYear": 357,
     "dailyMinutesDown": {
@@ -119,11 +119,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 622,
-    "timeDay": 492,
-    "timeWeek": 599,
+    "time": 621,
+    "timeDay": 497,
+    "timeWeek": 587,
     "timeMonth": 612,
-    "timeYear": 622,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2022-03-31": 61
     }
@@ -140,9 +140,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 298,
-    "timeDay": 285,
-    "timeWeek": 363,
-    "timeMonth": 345,
+    "timeDay": 311,
+    "timeWeek": 353,
+    "timeMonth": 346,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2022-03-31": 372
