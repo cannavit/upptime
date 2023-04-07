@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1045,
-    "timeDay": 1158,
-    "timeWeek": 1009,
-    "timeMonth": 977,
+    "timeDay": 1064,
+    "timeWeek": 1087,
+    "timeMonth": 967,
     "timeYear": 1055,
-    "dailyMinutesDown": {
-      "2022-04-07": 36
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Anoki prenotazioni-web [production]",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 884,
-    "timeDay": 1059,
-    "timeWeek": 840,
-    "timeMonth": 910,
-    "timeYear": 900,
+    "timeDay": 951,
+    "timeWeek": 881,
+    "timeMonth": 908,
+    "timeYear": 901,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 918,
-    "timeDay": 943,
-    "timeWeek": 880,
-    "timeMonth": 893,
-    "timeYear": 917,
+    "timeDay": 835,
+    "timeWeek": 904,
+    "timeMonth": 880,
+    "timeYear": 916,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 809,
-    "timeDay": 7979,
-    "timeWeek": 2133,
-    "timeMonth": 1017,
-    "timeYear": 807,
+    "time": 827,
+    "timeDay": 7881,
+    "timeWeek": 3173,
+    "timeMonth": 1234,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2022-07-01": 106
     }
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
     "time": 365,
-    "timeDay": 436,
-    "timeWeek": 386,
-    "timeMonth": 407,
+    "timeDay": 325,
+    "timeWeek": 381,
+    "timeMonth": 401,
     "timeYear": 366,
     "dailyMinutesDown": {
       "2022-11-04": 93,
@@ -115,10 +113,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 601,
-    "timeWeek": 529,
-    "timeMonth": 584,
+    "time": 615,
+    "timeDay": 483,
+    "timeWeek": 532,
+    "timeMonth": 575,
     "timeYear": 612,
     "dailyMinutesDown": {}
   },
@@ -134,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 370,
-    "timeWeek": 310,
-    "timeMonth": 347,
+    "timeDay": 265,
+    "timeWeek": 323,
+    "timeMonth": 339,
     "timeYear": 307,
     "dailyMinutesDown": {}
   }
