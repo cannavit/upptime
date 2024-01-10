@@ -291,19 +291,19 @@
     "url": "http://pot.paxitalia.com:8443/api/public/auth/signin",
     "icon": "https://icons.duckduckgo.com/ip3/pot.paxitalia.com.ico",
     "slug": "pot-api-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 354,
-    "timeDay": 298,
-    "timeWeek": 294,
-    "timeMonth": 321,
+    "timeDay": 331,
+    "timeWeek": 303,
+    "timeMonth": 322,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2024-01-10": 0,
+      "2024-01-10": 9,
       "2023-09-05": 54
     }
   }
