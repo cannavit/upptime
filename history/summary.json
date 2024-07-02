@@ -273,9 +273,9 @@
     "url": "https://pot.paxitalia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pot.paxitalia.com.ico",
     "slug": "pot-web-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -284,7 +284,9 @@
     "timeWeek": 605,
     "timeMonth": 597,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-02": 0
+    }
   },
   {
     "name": "POT API [Production]",
@@ -293,17 +295,17 @@
     "slug": "pot-api-production",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.95%",
     "time": 353,
     "timeDay": 362,
     "timeWeek": 331,
     "timeMonth": 348,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-07-02": 0,
+      "2024-07-02": 37,
       "2024-06-11": 113,
       "2024-06-05": 65,
       "2023-09-05": 54
