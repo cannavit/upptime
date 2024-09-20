@@ -40,19 +40,19 @@
     "url": "https://edutelling.it/",
     "icon": "https://icons.duckduckgo.com/ip3/edutelling.it.ico",
     "slug": "edutelling-web-product-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 928,
-    "timeDay": 668,
-    "timeWeek": 899,
-    "timeMonth": 1048,
-    "timeYear": 928,
+    "timeDay": 697,
+    "timeWeek": 877,
+    "timeMonth": 1038,
+    "timeYear": 927,
     "dailyMinutesDown": {
-      "2024-09-20": 0
+      "2024-09-20": 13
     }
   },
   {
