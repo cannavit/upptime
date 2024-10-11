@@ -1,7 +1,7 @@
 url: http://pot-uat.paxitalia.com:8443/api/public/auth/signin
 status: up
 code: 400
-responseTime: 510
-lastUpdated: 2024-10-10T23:05:15.489Z
+responseTime: 646
+lastUpdated: 2024-10-11T23:04:53.266Z
 startTime: 2022-03-30T15:30:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
