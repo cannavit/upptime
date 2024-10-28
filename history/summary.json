@@ -112,18 +112,20 @@
     "url": "https://pot.paxitalia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pot.paxitalia.com.ico",
     "slug": "pot-web-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
+    "time": 671,
     "timeDay": 609,
     "timeWeek": 777,
     "timeMonth": 819,
     "timeYear": 686,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-28": 0
+    }
   },
   {
     "name": "POT API [Production]",
