@@ -112,10 +112,10 @@
     "url": "https://pot.paxitalia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pot.paxitalia.com.ico",
     "slug": "pot-web-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 671,
@@ -123,17 +123,19 @@
     "timeWeek": 780,
     "timeMonth": 818,
     "timeYear": 686,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-28": 2
+    }
   },
   {
     "name": "POT API [Production]",
     "url": "http://pot.paxitalia.com:8443/api/public/auth/signin",
     "icon": "https://icons.duckduckgo.com/ip3/pot.paxitalia.com.ico",
     "slug": "pot-api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "93.19%",
-    "uptimeWeek": "99.03%",
+    "uptimeDay": "93.17%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.92%",
     "time": 359,
