@@ -40,9 +40,9 @@
     "url": "https://edutelling.it/",
     "icon": "https://icons.duckduckgo.com/ip3/edutelling.it.ico",
     "slug": "edutelling-web-product-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 985,
     "timeMonth": 913,
     "timeYear": 922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-18": 0
+    }
   },
   {
     "name": "POT WEB [Staging]",
