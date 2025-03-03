@@ -1,7 +1,7 @@
 url: https://pot-uat.paxitalia.com:5443
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-03T02:03:04.521Z
+status: up
+code: 200
+responseTime: 1088
+lastUpdated: 2025-03-03T02:35:23.785Z
 startTime: 2022-03-30T15:59:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
