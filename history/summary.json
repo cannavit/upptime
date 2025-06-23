@@ -16,7 +16,7 @@
     "timeMonth": 1116,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2025-06-23": 591,
+      "2025-06-23": 598,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -159,7 +159,7 @@
     "timeMonth": 1034,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2025-06-23": 591,
+      "2025-06-23": 598,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -302,7 +302,7 @@
     "timeMonth": 0,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2025-06-23": 591,
+      "2025-06-23": 599,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -595,19 +595,19 @@
     "url": "https://pot.paxitalia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pot.paxitalia.com.ico",
     "slug": "pot-web-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 797,
-    "timeDay": 714,
-    "timeWeek": 765,
-    "timeMonth": 763,
+    "timeDay": 628,
+    "timeWeek": 738,
+    "timeMonth": 757,
     "timeYear": 850,
     "dailyMinutesDown": {
-      "2025-06-23": 1
+      "2025-06-23": 8
     }
   },
   {
